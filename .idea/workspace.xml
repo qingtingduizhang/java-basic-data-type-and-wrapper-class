@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="627b0da2-2880-4a30-b2c2-d008fcdf65f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/basic-data-type-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/src/test/java/com/wuman/TestDataType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\softwares\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../softwares/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\softwares\apache-maven-3.6.1\conf\settings2.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GhPsHx2YLDZ0Sh9kuIUIAyNxbG" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestDataType.test5">
+    <configuration name="TestDataType.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.wuman" />
+      <option name="MAIN_CLASS_NAME" value="com.wuman.TestDataType" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataType.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuman" />
+      <option name="MAIN_CLASS_NAME" value="com.wuman.TestDataType" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataType.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuman" />
+      <option name="MAIN_CLASS_NAME" value="com.wuman.TestDataType" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataType.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuman" />
+      <option name="MAIN_CLASS_NAME" value="com.wuman.TestDataType" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.wuman in basic-data-type-learn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuman" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.wuman in basic-data-type-learn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.wuman" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDataType.test" />
+      <item itemvalue="JUnit.TestDataType.test4" />
+      <item itemvalue="JUnit.com.wuman in basic-data-type-learn" />
+      <item itemvalue="JUnit.TestDataType.test5" />
+      <item itemvalue="JUnit.TestDataType.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDataType.test5" />
+        <item itemvalue="JUnit.TestDataType.test" />
+        <item itemvalue="JUnit.TestDataType.test2" />
+        <item itemvalue="JUnit.com.wuman in basic-data-type-learn" />
+        <item itemvalue="JUnit.com.wuman in basic-data-type-learn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="627b0da2-2880-4a30-b2c2-d008fcdf65f6" name="Changes" comment="" />
+      <created>1666838049541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666838049541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
