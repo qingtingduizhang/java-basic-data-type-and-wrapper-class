@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="627b0da2-2880-4a30-b2c2-d008fcdf65f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/basic-data-type-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/src/test/java/com/wuman/TestDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-data-type-learn/src/main/java/com/wuman/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-data-type-learn/basic-data-type-learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basic-data-type-learn/basic-data-type-learn.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,7 @@
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\softwares\apache-maven-3.6.1\repository" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../../softwares/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="D:\softwares\apache-maven-3.6.1\conf\settings2.xml" />
       </MavenGeneralSettings>
     </option>
@@ -44,13 +53,28 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="JUnit.TestDataType.test5">
+  <component name="RunManager" selected="Application.TestData">
+    <configuration name="TestData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuman.TestData" />
+      <module name="basic-data-type-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDataType.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic-data-type-learn" />
       <extension name="coverage">
@@ -125,22 +149,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wuman" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.wuman in basic-data-type-learn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basic-data-type-learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wuman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PACKAGE_NAME" value="com.wuman" />
@@ -154,17 +162,17 @@
     <list>
       <item itemvalue="JUnit.TestDataType.test" />
       <item itemvalue="JUnit.TestDataType.test4" />
-      <item itemvalue="JUnit.com.wuman in basic-data-type-learn" />
       <item itemvalue="JUnit.TestDataType.test5" />
       <item itemvalue="JUnit.TestDataType.test2" />
+      <item itemvalue="Application.TestData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestData" />
+        <item itemvalue="JUnit.TestDataType.test4" />
         <item itemvalue="JUnit.TestDataType.test5" />
         <item itemvalue="JUnit.TestDataType.test" />
         <item itemvalue="JUnit.TestDataType.test2" />
-        <item itemvalue="JUnit.com.wuman in basic-data-type-learn" />
-        <item itemvalue="JUnit.com.wuman in basic-data-type-learn" />
       </list>
     </recent_temporary>
   </component>
